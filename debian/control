@@ -1,0 +1,12 @@
+Source: ros-indigo-ibeo-lux
+Section: misc
+Priority: extra
+Maintainer: AutonomouStuff Software Development Team <software@autonomoustuff.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-geometry-msgs, ros-indigo-ibeo-core, ros-indigo-ibeo-msgs, ros-indigo-network-interface, ros-indigo-pcl-ros, ros-indigo-roscpp, ros-indigo-std-msgs, ros-indigo-visualization-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-ibeo-lux
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-geometry-msgs, ros-indigo-ibeo-core, ros-indigo-ibeo-msgs, ros-indigo-network-interface, ros-indigo-pcl-ros, ros-indigo-roscpp, ros-indigo-std-msgs, ros-indigo-visualization-msgs
+Description: ROS driver for IBEO LUX
