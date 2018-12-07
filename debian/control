@@ -1,0 +1,12 @@
+Source: ros-kinetic-ibeo-lux
+Section: misc
+Priority: extra
+Maintainer: AutonomouStuff Software Development Team <software@autonomoustuff.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-geometry-msgs, ros-kinetic-ibeo-core, ros-kinetic-ibeo-msgs, ros-kinetic-network-interface, ros-kinetic-pcl-ros, ros-kinetic-roscpp, ros-kinetic-std-msgs, ros-kinetic-visualization-msgs
+Homepage: http://wiki.ros.org/ibeo_lux
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-ibeo-lux
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-geometry-msgs, ros-kinetic-ibeo-core, ros-kinetic-ibeo-msgs, ros-kinetic-network-interface, ros-kinetic-pcl-ros, ros-kinetic-roscpp, ros-kinetic-std-msgs, ros-kinetic-visualization-msgs
+Description: ROS driver for IBEO LUX
