@@ -1,3 +1,26 @@
+## ibeo_lux (indigo) - 2.0.1-0
+
+The packages in the `ibeo_lux` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --ros-distro indigo --track indigo ibeo_lux --edit` on `Fri, 07 Dec 2018 21:06:24 -0000`
+
+The `ibeo_lux` package was released.
+
+Version of package(s) in repository `ibeo_lux`:
+
+- upstream repository: https://github.com/astuff/ibeo_lux
+- release repository: https://github.com/astuff/ibeo_lux-release.git
+- rosdistro version: `2.0.0-0`
+- old version: `2.0.0-0`
+- new version: `2.0.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.9`
+- catkin_pkg version: `0.4.9`
+- rosdep version: `0.13.0`
+- rosdistro version: `0.7.0`
+- vcstools version: `0.1.40`
+
+
 ## ibeo_lux (melodic) - 2.0.0-0
 
 The packages in the `ibeo_lux` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --track melodic --ros-distro melodic ibeo_lux --edit` on `Mon, 09 Jul 2018 18:06:49 -0000`
