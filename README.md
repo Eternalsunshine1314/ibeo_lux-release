@@ -1,3 +1,26 @@
+## ibeo_lux (kinetic) - 2.0.1-1
+
+The packages in the `ibeo_lux` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --ros-distro kinetic --track kinetic ibeo_lux` on `Wed, 04 Sep 2019 14:57:51 -0000`
+
+The `ibeo_lux` package was released.
+
+Version of package(s) in repository `ibeo_lux`:
+
+- upstream repository: https://github.com/astuff/ibeo_lux
+- release repository: https://github.com/astuff/ibeo_lux-release.git
+- rosdistro version: `2.0.1-0`
+- old version: `2.0.1-0`
+- new version: `2.0.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.12`
+- rosdep version: `0.15.2`
+- rosdistro version: `0.7.4`
+- vcstools version: `0.1.40`
+
+
 ## ibeo_lux (melodic) - 2.0.1-0
 
 The packages in the `ibeo_lux` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --ros-distro melodic --track melodic ibeo_lux --edit` on `Fri, 07 Dec 2018 21:24:29 -0000`
